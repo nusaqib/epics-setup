@@ -1,0 +1,4 @@
+epicsEnvSet("IOC","ioctest")
+epicsEnvSet("TOP","/ics/examples/test")
+epicsEnvSet("RECSYNC","/ics/tools/recsync/client")
+epicsEnvSet("EPICS_BASE","/ics/tools/base-7.0.6")
